@@ -13,3 +13,43 @@
 - Golang tools: https://golang.org/dl/
 
 ### Стрим(Запись лекции): https://www.youtube.com/watch?v=_t-I2f29bak
+
+
+## Практика. Codewars.
+Ресурс: https://www.codewars.com/
+- При регистрации выбрать "Link Your GitHub Account" (для этого потребуется GitHub аккаунт)
+
+### Задания
+
+**Уровень 8**
+- https://www.codewars.com/kata/opposite-number/train/go
+- https://www.codewars.com/kata/is-he-gonna-survive/train/go
+- https://www.codewars.com/kata/sum-of-positive/train/go
+- https://www.codewars.com/kata/string-repeat/train/go
+- https://www.codewars.com/kata/remove-first-and-last-character/train/go
+
+**Уровень 7**
+- https://www.codewars.com/kata/are-the-numbers-in-order/train/go
+- https://www.codewars.com/kata/is-this-a-triangle/train/go
+- https://www.codewars.com/kata/shortest-word/train/go
+- https://www.codewars.com/kata/growth-of-a-population/train/go
+- https://www.codewars.com/kata/fizz-buzz-cuckoo-clock/train/go
+
+**Уровень 6**
+- https://www.codewars.com/kata/multiples-of-3-or-5/train/go
+- https://www.codewars.com/kata/sum-of-digits-slash-digital-root/train/go
+- https://www.codewars.com/kata/valid-braces/train/go
+- https://www.codewars.com/kata/find-the-unique-number-1/train/go
+- https://www.codewars.com/kata/which-are-in/train/go
+- https://www.codewars.com/kata/decode-the-morse-code/train/go
+
+**Уровень 5**
+- https://www.codewars.com/kata/josephus-permutation/train/go
+- https://www.codewars.com/kata/pick-peaks/train/go
+- https://www.codewars.com/kata/directions-reduction/train/go
+- https://www.codewars.com/kata/best-travel/train/go
+
+**Уровень 4**
+- https://www.codewars.com/kata/sudoku-solution-validator/train/go
+- https://www.codewars.com/kata/square-into-squares-protect-trees/train/go
+- https://www.codewars.com/kata/decode-the-morse-code-advanced/train/go
