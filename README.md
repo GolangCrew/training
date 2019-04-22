@@ -1,5 +1,8 @@
 # Golang Training Mogilev 2019
 
+## Дополнительная информация.
+- Литература по VCS Git: https://git-scm.com/book/ru/v2 (главы 1-3)
+
 ## Лекция №1. Training Introduction. Network basics. HTTP.
 - Спецификация HTTP: https://tools.ietf.org/html/rfc2616
 - OSI. TCP/IP: https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_OSI
