@@ -22,6 +22,12 @@
 
 ### Стрим(Запись лекции): https://www.youtube.com/watch?v=_t-I2f29bak
 
+## Лекция №3. Основы программирования на GO.
+
+Tour of GO: https://tour.golang.org/welcome/1
+Go в примерах:  https://gobyexample.com/
+
+### Стрим(Запись лекции): https://www.youtube.com/watch?v=lyjXGkIUev8
 
 ## Практика. Codewars.
 Ресурс: https://www.codewars.com/
