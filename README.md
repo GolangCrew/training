@@ -2,6 +2,7 @@
 
 ## Дополнительная информация.
 - Литература по VCS Git: https://git-scm.com/book/ru/v2 (главы 1-3)
+- Доп. информация по Git (есть песочница) http://try.github.io/
 
 ## Лекция №1. Training Introduction. Network basics. HTTP.
 - Спецификация HTTP: https://tools.ietf.org/html/rfc2616
