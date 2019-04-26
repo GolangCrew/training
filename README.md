@@ -30,6 +30,10 @@
 
 ### Стрим(Запись лекции): https://www.youtube.com/watch?v=lyjXGkIUev8
 
+## Лекция #4. объектно-ориентированный подход 
+
+### Стрим(Запись лекции): https://www.youtube.com/watch?v=vxPxWQGoXMM
+
 ## Практика. Codewars.
 Ресурс: https://www.codewars.com/
 - При регистрации выбрать "Link Your GitHub Account" (для этого потребуется GitHub аккаунт)
