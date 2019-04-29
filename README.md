@@ -30,9 +30,13 @@
 
 ### Стрим(Запись лекции): https://www.youtube.com/watch?v=lyjXGkIUev8
 
-## Лекция #4. объектно-ориентированный подход 
+## Лекция №4. Объектно-ориентированный подход 
 
 ### Стрим(Запись лекции): https://www.youtube.com/watch?v=vxPxWQGoXMM
+
+## Лекция №5. Structures & Pointers.
+
+### Стрим(Запись лекции): https://www.youtube.com/watch?v=S_w8aTQCue0
 
 ## Практика. Codewars.
 Ресурс: https://www.codewars.com/
