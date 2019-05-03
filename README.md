@@ -39,6 +39,10 @@
 
 ### Стрим(Запись лекции): https://www.youtube.com/watch?v=S_w8aTQCue0
 
+## Лекция №6.
+
+### Стрим(Запись лекции) https://www.youtube.com/watch?v=DXtRwIbkbac
+
 ## Практика. Codewars.
 Ресурс: https://www.codewars.com/
 - При регистрации выбрать "Link Your GitHub Account" (для этого потребуется GitHub аккаунт)
