@@ -8,6 +8,7 @@
 - [Лекция №5](https://github.com/GolangCrew/training#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-5-structures--pointers)
 - [Лекция №6](https://github.com/GolangCrew/training#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-6)
 - [Лекция №7](https://github.com/GolangCrew/training#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-7)
+- [Лекция №8](https://github.com/GolangCrew/training/#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-8-error-handling-defer-panic-recover)
 - [Codewars](https://github.com/GolangCrew/training/#%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0-codewars)
 - [Практика](https://github.com/GolangCrew/training/tree/master/practice)
 ## Дополнительная информация.
@@ -54,7 +55,11 @@
 
 ## Лекция №8. Error handling. Defer. Panic. Recover.
 
-### Стрим(Запись лекции.) https://www.youtube.com/watch?v=J_NqGGr8iQw
+### Стрим(Запись лекции) https://www.youtube.com/watch?v=J_NqGGr8iQw
+
+## Лекция №9. Concurrency and Parallelism
+
+### Стрим(Запись лекции) https://www.youtube.com/watch?v=Miu_fhxLma4
 
 ## Практика. Codewars.
 Ресурс: https://www.codewars.com/
