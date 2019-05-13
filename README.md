@@ -43,14 +43,18 @@
 
 ### Стрим(Запись лекции): https://www.youtube.com/watch?v=S_w8aTQCue0
 
-## Лекция №6.
+## Лекция №6. Pointers continued. Map. Interfaces.
 
 ### Стрим(Запись лекции) https://www.youtube.com/watch?v=DXtRwIbkbac
 
-## Лекция №7.
+## Лекция №7. Interfaces continued
 
 ### Стрим(Запись лекции. часть 1) https://www.youtube.com/watch?v=Y1rj6-5lJ2I
 ### Стрим(Запись лекции. часть 2) https://www.youtube.com/watch?v=p1X8l-aRw7o
+
+## Лекция №8. Error handling. Defer. Panic. Recover.
+
+### Стрим(Запись лекции.) https://www.youtube.com/watch?v=J_NqGGr8iQw
 
 ## Практика. Codewars.
 Ресурс: https://www.codewars.com/
