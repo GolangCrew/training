@@ -1,15 +1,15 @@
 # Golang Training Mogilev 2019
 ### Навигация
 - [Доп. инфо](https://github.com/GolangCrew/training/#%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
-- [Лекция №1](https://github.com/GolangCrew/training/#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-1-training-introduction-network-basics-http)
-- [Лекция №2](https://github.com/GolangCrew/training/#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-2-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-%D0%BD%D0%B0-golang)
-- [Лекция №3](https://github.com/GolangCrew/training#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-3-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-go)
-- [Лекция №4](https://github.com/GolangCrew/training#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-4-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4)
-- [Лекция №5](https://github.com/GolangCrew/training#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-5-structures--pointers)
-- [Лекция №6](https://github.com/GolangCrew/training#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-6)
-- [Лекция №7](https://github.com/GolangCrew/training#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-7)
-- [Лекция №8](https://github.com/GolangCrew/training/#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-8-error-handling-defer-panic-recover)
-- [Лекция №9](https://github.com/GolangCrew/training/#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-9-concurrency-and-parallelism)
+- [Лекция №1. Training Introduction. Network basics. HTTP.](https://github.com/GolangCrew/training/#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-1-training-introduction-network-basics-http)
+- [Лекция №2. Настройка окружения. Первая программа на GoLang.](https://github.com/GolangCrew/training/#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-2-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-%D0%BD%D0%B0-golang)
+- [Лекция №3. Основы программирования на GO.](https://github.com/GolangCrew/training#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-3-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-go)
+- [Лекция №4. Объектно-ориентированный подход.](https://github.com/GolangCrew/training#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-4-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4)
+- [Лекция №5. Structures & Pointers.](https://github.com/GolangCrew/training#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-5-structures--pointers)
+- [Лекция №6. Pointers continued. Map. Interfaces.](https://github.com/GolangCrew/training#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-6)
+- [Лекция №7. Interfaces continued.](https://github.com/GolangCrew/training#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-7)
+- [Лекция №8. Error handling. Defer. Panic. Recover.](https://github.com/GolangCrew/training/#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-8-error-handling-defer-panic-recover)
+- [Лекция №9. Concurrency and Parallelism.](https://github.com/GolangCrew/training/#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-9-concurrency-and-parallelism)
 - [Codewars](https://github.com/GolangCrew/training/#%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0-codewars)
 - [Практика](https://github.com/GolangCrew/training/tree/master/practice)
 ## Дополнительная информация.
@@ -65,6 +65,10 @@
 ## Лекция №10. Channels continued.
 
 ### Стрим(Запись лекции) https://www.youtube.com/watch?v=VveXfQPpZzk
+
+## Лекция№ 11. Тестирование в GO
+
+### Стрим(Запись лекции) https://www.youtube.com/watch?v=7UeQesc2Ct0
 
 ## Практика. Codewars.
 Ресурс: https://www.codewars.com/
