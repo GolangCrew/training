@@ -10,6 +10,8 @@
 - [Лекция №7. Interfaces continued.](https://github.com/GolangCrew/training#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-7)
 - [Лекция №8. Error handling. Defer. Panic. Recover.](https://github.com/GolangCrew/training/#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-8-error-handling-defer-panic-recover)
 - [Лекция №9. Concurrency and Parallelism.](https://github.com/GolangCrew/training/#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-9-concurrency-and-parallelism)
+- [Лекция №10. Channels continued.](https://github.com/GolangCrew/training/#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-10-channels-continued)
+- [Лекция №11. Тестирование в GO.](https://github.com/GolangCrew/training/#%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-11-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2-go)
 - [Codewars](https://github.com/GolangCrew/training/#%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0-codewars)
 - [Практика](https://github.com/GolangCrew/training/tree/master/practice)
 ## Дополнительная информация.
