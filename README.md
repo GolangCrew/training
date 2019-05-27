@@ -72,7 +72,7 @@
 
 ### Стрим(Запись лекции) https://www.youtube.com/watch?v=7UeQesc2Ct0
 
-## Лекция №12. Базы данныхю MongoDB.
+## Лекция №12. Context. MongoDB.
 
 ### Стрим(Запись лекции) https://www.youtube.com/watch?v=AKgFiQHu1E0
 
