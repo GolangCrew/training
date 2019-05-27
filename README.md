@@ -68,9 +68,17 @@
 
 ### Стрим(Запись лекции) https://www.youtube.com/watch?v=VveXfQPpZzk
 
-## Лекция№ 11. Тестирование в GO
+## Лекция №11. Тестирование в GO
 
 ### Стрим(Запись лекции) https://www.youtube.com/watch?v=7UeQesc2Ct0
+
+## Лекция №12. Базы данныхю MongoDB.
+
+### Стрим(Запись лекции) https://www.youtube.com/watch?v=AKgFiQHu1E0
+
+## Лекция №13. HTTP Package. Middleware.
+
+## Стрим(Запись лекции) https://www.youtube.com/watch?v=b0o5S1pwWQw
 
 ## Практика. Codewars.
 Ресурс: https://www.codewars.com/
