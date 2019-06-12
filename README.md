@@ -80,6 +80,11 @@
 
 ## Стрим(Запись лекции) https://www.youtube.com/watch?v=b0o5S1pwWQw
 
+## Лекция №14. Docker.
+
+## Стрим(Запись лекции) https://www.youtube.com/watch?v=8AjsNflKY9I
+
+
 ## Практика. Codewars.
 Ресурс: https://www.codewars.com/
 - При регистрации выбрать "Link Your GitHub Account" (для этого потребуется GitHub аккаунт)
