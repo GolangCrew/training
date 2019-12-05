@@ -2,6 +2,7 @@ package infrastructure
 
 import (
 	"server/domain"
+	"server/infrastructure/client"
 )
 
 type UsersRepository interface {
@@ -10,13 +11,18 @@ type UsersRepository interface {
 	GetUsersList() ([]*domain.User, error)
 }
 
-type usersRepository struct{}
+type usersRepository struct {
+	clientFactoryFunc client.ClientFactoryFunc
+}
 
-func NewUsersRepository() UsersRepository {
-	return &usersRepository{}
+func NewUsersRepository(clientFactoryFunc client.ClientFactoryFunc) UsersRepository {
+	return &usersRepository{
+		clientFactoryFunc: clientFactoryFunc,
+	}
 }
 
 func (repo *usersRepository) Add(user *domain.User) error {
+	// client, err := repo.clientFactoryFunc()
 	return nil
 }
 
