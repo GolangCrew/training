@@ -12,17 +12,19 @@ type UsersRepository interface {
 }
 
 type usersRepository struct {
-	clientFactoryFunc client.ClientFactoryFunc
+	client *client.Client
 }
 
-func NewUsersRepository(clientFactoryFunc client.ClientFactoryFunc) UsersRepository {
+func NewUsersRepository(client *client.Client) UsersRepository {
 	return &usersRepository{
-		clientFactoryFunc: clientFactoryFunc,
+		client: client,
 	}
 }
 
 func (repo *usersRepository) Add(user *domain.User) error {
-	// client, err := repo.clientFactoryFunc()
+	// client.Connect()
+	// client.Disconnect()
+	// etc.
 	return nil
 }
 
